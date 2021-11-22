@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		77995CAA2745A21A0048E433 /* AlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77995CA92745A21A0048E433 /* AlertController.swift */; };
 		77A8641727444874004C7911 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A8641627444874004C7911 /* AppDelegate.swift */; };
 		77A8641927444874004C7911 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A8641827444874004C7911 /* SceneDelegate.swift */; };
 		77A8641B27444874004C7911 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A8641A27444874004C7911 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		77995CA92745A21A0048E433 /* AlertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertController.swift; sourceTree = "<group>"; };
 		77A8641327444874004C7911 /* GeoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GeoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77A8641627444874004C7911 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77A8641827444874004C7911 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				77A8641627444874004C7911 /* AppDelegate.swift */,
 				77A8641827444874004C7911 /* SceneDelegate.swift */,
 				77A8641A27444874004C7911 /* ViewController.swift */,
+				77995CA92745A21A0048E433 /* AlertController.swift */,
 				77A8641C27444874004C7911 /* Main.storyboard */,
 				77A8641F2744487C004C7911 /* Assets.xcassets */,
 				77A864212744487C004C7911 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77995CAA2745A21A0048E433 /* AlertController.swift in Sources */,
 				77A8641B27444874004C7911 /* ViewController.swift in Sources */,
 				77A8641727444874004C7911 /* AppDelegate.swift in Sources */,
 				77A8641927444874004C7911 /* SceneDelegate.swift in Sources */,
